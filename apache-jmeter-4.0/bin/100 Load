@@ -1,0 +1,4 @@
+Label,# Samples,Average,Min,Max,Std. Dev.,Error %,Throughput,Received KB/sec,Sent KB/sec,Avg. Bytes
+Tokenizer - XML,1,1678,1678,1678,0.00,0.000%,.59595,0.60,0.22,1037.0
+Tokenizer - JSON,150057,1199,257,35106,676.45,0.022%,83.30433,26.93,102.99,331.1
+TOTAL,150058,1199,257,35106,676.45,0.022%,1.84625,0.60,2.28,331.1

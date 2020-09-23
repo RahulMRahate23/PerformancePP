@@ -1,0 +1,5 @@
+Label,# Samples,Average,Min,Max,Std. Dev.,Error %,Throughput,Received KB/sec,Sent KB/sec,Avg. Bytes
+Test1 /,1,1536,1536,1536,0.00,0.000%,.65104,3.60,0.28,5658.0
+Test2 /Login/Continue,1,2675,2675,2675,0.00,0.000%,.37383,4.58,0.47,12549.0
+Test3 /Home/Index,1,1141,1141,1141,0.00,100.000%,.87642,2.19,0.00,2556.0
+TOTAL,3,1784,1141,2675,650.34,33.333%,.56022,3.79,0.32,6921.0

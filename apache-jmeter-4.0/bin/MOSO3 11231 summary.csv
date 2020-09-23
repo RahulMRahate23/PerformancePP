@@ -1,0 +1,97 @@
+Label,# Samples,Average,Min,Max,Std. Dev.,Error %,Throughput,Received KB/sec,Sent KB/sec,Avg. Bytes
+ISO -Apply Now,2,2767,2433,3101,334.00,0.000%,.14529,1.78,0.28,12558.5
+ISO -Merchants,2,2160,2118,2202,42.00,0.000%,.14775,3.15,0.28,21837.0
+ISO -Documents,2,1408,1348,1468,60.00,0.000%,.15667,0.18,0.31,1179.0
+ISO -Residual,2,688,679,697,9.00,0.000%,.16700,0.13,0.33,780.0
+ISO -Billing,2,1516,1063,1969,453.00,0.000%,.16204,0.12,0.32,780.0
+ISO -Users invitations ,2,1841,1703,1980,138.50,0.000%,.16560,0.14,0.36,836.0
+Merchant -Merchants,2,2297,2013,2581,284.00,0.000%,.09681,2.06,0.19,21837.5
+Merchant -Transactions,2,2737,2384,3091,353.50,0.000%,.09510,0.05,0.19,505.0
+Merchant -Users Invitations,2,1218,939,1497,279.00,100.000%,.10290,0.09,0.24,890.0
+Merchant - Customer Invoices,2,565,479,652,86.50,0.000%,.10540,0.12,0.20,1203.0
+Merchant -Subscription,2,920,856,984,64.00,0.000%,.10428,0.21,0.20,2030.5
+Merchant - Customers,2,3018,2599,3437,419.00,0.000%,.09618,0.09,0.18,941.0
+Merchants - Check Verification,2,973,796,1150,177.00,0.000%,.10806,0.08,0.21,724.0
+Merchant - Developers,2,1499,1433,1565,66.00,0.000%,.10375,0.31,0.21,3013.0
+Merchant -Documents,2,593,537,649,56.00,0.000%,.10881,0.31,0.21,2950.0
+Merchant - Pricing,2,1536,1453,1619,83.00,0.000%,.10425,0.16,0.20,1598.0
+Merchant - Sandox,2,1794,1128,2461,666.50,100.000%,.10699,0.31,0.05,2970.0
+Admin - Master -Groups,2,1145,562,1728,583.00,0.000%,.02020,0.05,0.04,2636.5
+Admin - Master -Corporate-Structures,2,704,697,712,7.50,0.000%,.02041,0.06,0.04,3197.5
+Admin - Master -Decline codes,2,2904,2302,3506,602.00,0.000%,.02009,2.60,0.04,132417.0
+Admin - Master - Funding Times,2,1628,1624,1632,4.00,0.000%,.02047,0.04,0.04,2150.0
+Admin - Master -Gateways,2,549,524,574,25.00,0.000%,.02070,0.03,0.04,1718.0
+Admin - Master -Hardwares,2,1336,1092,1580,244.00,0.000%,.02047,0.04,0.04,1947.0
+Admin - Master -Holidays,2,652,610,695,42.50,0.000%,.02056,0.08,0.04,3746.0
+Admin - Master -Notes,2,1115,704,1527,411.50,0.000%,.02037,0.06,0.04,3100.5
+Admin - Master -Sec-codes,2,1049,571,1527,478.00,0.000%,.02039,0.07,0.04,3377.0
+Admin - Master -Prohibits,2,903,740,1067,163.50,0.000%,.02049,0.05,0.04,2413.0
+Admin - Master - USA States,2,1633,1481,1786,152.50,0.000%,.02027,0.05,0.04,2763.5
+Admin - Master -ODFIs,2,845,582,1109,263.50,0.000%,.02035,0.20,0.04,10046.5
+Admin - Master -NAICS,2,1218,760,1677,458.50,0.000%,.02031,0.06,0.04,3270.5
+Admin - Master -NAICS Fee,2,1375,894,1857,481.50,0.000%,.02048,0.07,0.04,3267.0
+Admin -Company - ISO,2,1276,1022,1530,254.00,0.000%,.02054,0.24,0.04,12113.5
+Admin - Company -ISO - Company Info,2,652,650,655,2.50,0.000%,.02062,0.04,0.04,1855.0
+Admin - Company -ISO - Business Data,2,836,627,1045,209.00,0.000%,.02054,0.04,0.04,1935.0
+Admin - Company -ISO - VelocitIes,2,791,537,1045,254.00,0.000%,.02056,0.05,0.04,2270.0
+Admin - Company -ISO - Operations,2,579,576,582,3.00,0.000%,.02066,0.02,0.04,1079.0
+Admin - Company -ISO -  Verichecks,2,1788,1042,2535,746.50,0.000%,.02025,0.03,0.04,1433.0
+Admin - Company -ISO -  Contacts,2,1305,1010,1600,295.00,0.000%,.02025,0.07,0.04,3651.0
+Admin - Company -ISO - Bank Details,2,620,530,711,90.50,0.000%,.02044,0.08,0.04,4079.0
+Admin - Company -ISO -  Markets Portfolio,2,1383,625,2142,758.50,0.000%,.02042,0.03,0.04,1431.0
+Admin - Company -ISO - Existing Portfolio,2,1066,1060,1073,6.50,0.000%,.02064,0.04,0.04,1738.0
+Admin - Company -ISO -  Schedule A,2,1036,964,1109,72.50,0.000%,.02067,0.54,0.04,26656.5
+Admin - Company -ISO - Notes,2,1116,896,1337,220.50,0.000%,.02062,0.04,0.04,1915.0
+Admin -Company - Merchant,2,850,750,950,100.00,0.000%,.02065,0.65,0.04,32215.0
+Admin - Company -Merchant - Company Info,2,937,648,1226,289.00,0.000%,.02059,0.09,0.04,4294.0
+Admin - Company -Merchant -Company Addresses,2,1105,704,1507,401.50,0.000%,.02058,0.05,0.04,2337.0
+Admin - Company -Merchant -Business Data,2,646,645,647,1.00,0.000%,.02076,0.04,0.04,1987.5
+Admin - Company -Merchant - Velocities,2,1292,956,1628,336.00,0.000%,.02069,0.05,0.04,2361.5
+Admin - Company -Merchant - Fund Security,2,646,595,698,51.50,0.000%,.02090,0.02,0.04,1124.0
+Admin - Company -Merchant - Operations,2,1029,593,1465,436.00,0.000%,.02090,0.02,0.04,1113.0
+Admin - Company -Merchant - Underwriting,2,761,541,982,220.50,0.000%,.02100,0.02,0.04,994.0
+Admin - Company -Merchant -Verichecks,2,3442,1291,5593,2151.00,0.000%,.02084,0.03,0.04,1505.0
+Admin - Company -Merchant - Contacts,2,1012,987,1038,25.50,0.000%,.02189,0.14,0.04,6358.0
+Admin - Company -Merchant -ODFI,2,580,530,630,50.00,100.000%,.02199,0.02,0.04,767.0
+Admin - Company -Merchant - Bank Details,2,642,576,709,66.50,0.000%,.02198,0.06,0.04,2668.0
+Admin - Company -Merchant -Fees,2,1126,1123,1130,3.50,0.000%,.02188,0.01,0.04,658.0
+Admin - Company -Merchant -Apply Fee,2,688,631,746,57.50,0.000%,.02200,0.11,0.04,5077.5
+Admin - Company -Merchant - Split,2,633,547,719,86.00,0.000%,.02204,0.03,0.04,1184.0
+Admin - Company -Merchant -Developers,2,1671,1607,1736,64.50,0.000%,.02183,0.03,0.04,1198.0
+Admin - Company -Merchant -Notes,2,594,520,668,74.00,0.000%,.02209,0.12,0.04,5485.0
+Admin - Transaction - Blocked Account Numbers,2,1300,970,1630,330.00,0.000%,.02182,0.07,0.04,3234.5
+Admin - Transaction -Blocked Routing Numbers,2,679,668,690,11.00,0.000%,.02189,0.02,0.04,1125.5
+Admin - Transaction -Add Manual Transactions,2,2369,1762,2976,607.00,0.000%,.02135,4.63,0.04,221840.5
+Admin - Transaction -All Transactions,2,2768,2418,3118,350.00,0.000%,.02104,0.01,0.04,505.0
+Admin - Transaction -Approve Transactions,2,5956,2411,9501,3545.00,0.000%,.01958,0.13,0.04,6665.0
+Admin - Transaction -Rejected  Transactions,2,4151,3774,4528,377.00,0.000%,.01919,0.05,0.04,2771.0
+Admin - Transaction - Check Verification,2,1439,1175,1704,264.50,0.000%,.01958,0.01,0.04,724.0
+Admin - Billing -Merchant Billings,2,1875,1673,2077,202.00,0.000%,.01940,0.98,0.04,51816.0
+Admin - Billing -Approve Merchant Billing,2,1447,938,1957,509.50,0.000%,.01935,0.08,0.04,4223.5
+Admin - Billing - ISO  Billing,2,3403,1333,5473,2070.00,0.000%,.01928,1.19,0.04,63357.5
+Admin - Billing - Approve ISO Billing,2,1516,1114,1919,402.50,0.000%,.02012,0.02,0.04,770.0
+Admin - Billing - Residual Billing,2,978,862,1094,116.00,0.000%,.02029,0.30,0.04,14994.0
+Admin - Billing - Approve Residual Billing,2,1386,1354,1419,32.50,0.000%,.02018,0.02,0.04,770.0
+Admin - Billing - Projected Billing,2,942,711,1173,231.00,0.000%,.02021,0.14,0.04,7332.0
+Admin - Reconcilliation - ODFI Pricing,2,2238,1158,3319,1080.50,0.000%,.01970,0.19,0.03,10050.0
+Admin - Reconcilliation -  Gateway Pricing,2,891,820,963,71.50,0.000%,.01973,0.03,0.04,1393.0
+Admin - Reconcilliation - Projected Gateway Bill,2,839,752,926,87.00,0.000%,.01975,0.03,0.04,1399.0
+Admin - Reconcilliation - Bank Accounts,2,993,857,1130,136.50,0.000%,.01976,0.06,0.04,2861.0
+Admin - Reconcilliation - CBCAL - Opening Balance,2,962,779,1146,183.50,0.000%,.01976,0.11,0.04,5647.0
+Admin - Reconcilliation - CBCAL - Returns,2,683,616,751,67.50,0.000%,.01979,0.11,0.04,5646.5
+Admin - Reconcilliation - CBCAL - ACH Entries,2,1141,713,1570,428.50,0.000%,.01980,0.11,0.04,5643.0
+Admin - Reconcilliation - CBCAL - Settlement,2,1077,493,1662,584.50,0.000%,.01978,0.11,0.04,5646.5
+Admin - Reconcilliation - CBCAL - Transactions,2,970,818,1122,152.00,0.000%,.01971,0.11,0.03,5643.0
+Admin - Workflow - Requests,2,915,606,1225,309.50,0.000%,.01969,0.02,0.04,1081.0
+Admin -Workflow -CAB,2,1052,1012,1092,40.00,0.000%,.01960,0.04,0.03,1886.0
+Admin - Underwriting - Merchant -Cross Reference Search,2,1214,1149,1279,65.00,0.000%,.01957,0.12,0.04,6357.0
+Admin - Underwriting - Merchant -Pricing,2,1116,993,1239,123.00,0.000%,.01963,0.03,0.04,1591.5
+Admin - Underwriting - Merchant -Pricing History,2,1686,1228,2145,458.50,0.000%,.01946,0.02,0.04,869.0
+Admin - Underwriting - Merchant -Application Statuses,2,1029,556,1502,473.00,0.000%,.01940,0.04,0.03,2072.0
+Admin - Underwriting - Merchant -Checklist,2,785,609,961,176.00,0.000%,.01939,0.02,0.04,1201.0
+Admin - Underwriting - Merchant -Merchant Risk Calculator - Riskinfo,2,1522,1465,1580,57.50,0.000%,.01928,0.01,0.04,770.0
+Admin - Underwriting - Merchant -Merchant Risk Calculator - Riskinfo All,2,616,605,628,11.50,0.000%,.01944,0.01,0.04,770.0
+Admin - Underwriting - Merchant -Merchant Business information,2,1360,1314,1407,46.50,0.000%,.01930,0.19,0.03,10125.0
+Admin - Underwriting - Merchant -Merchant Processing Information,2,658,599,717,59.00,0.000%,.01945,0.07,0.04,3794.5
+Admin - Underwriting - Merchant -Documents,2,3362,1093,5632,2269.50,0.000%,.01857,0.05,0.03,2966.0
+TOTAL,190,1368,479,9501,1068.27,3.158%,.73034,6.32,1.33,8860.1
